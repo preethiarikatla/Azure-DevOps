@@ -33,7 +33,7 @@ Feedback and contributions are welcome! If you encounter any issues or have sugg
 
 **<h2>Results:</h2>**
 ![Example Image](deploy.jpg)
-![Example Image](repos.jpg)
+![Example Image](repos.png)
 ![Example Image](dev1.png)
 ![Example Image](preprod.png)
 ![Example Image](QA.png)
