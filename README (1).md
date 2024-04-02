@@ -32,8 +32,8 @@ FEEDBACK:
 Feedback and contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 **<h2>Results:</h2>**
-![Example Image](Picture1.jpg)
-![Example Image](Picture2.jpg)
+![Example Image](deploy.jpg)
+![Example Image](repos.jpg)
 ![Example Image](dev1.png)
 ![Example Image](preprod.png)
 ![Example Image](QA.png)
