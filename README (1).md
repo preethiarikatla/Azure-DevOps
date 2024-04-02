@@ -36,6 +36,6 @@ Feedback and contributions are welcome! If you encounter any issues or have sugg
 ![Example Image](Picture2.jpg)
 ![Example Image](dev1.png)
 ![Example Image](preprod.png)
-![Example Image](QA-rg.png)
-![Example Image](Prod-rg.png)
+![Example Image](QA.png)
+![Example Image](prod.png)
 
