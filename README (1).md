@@ -35,7 +35,7 @@ Feedback and contributions are welcome! If you encounter any issues or have sugg
 ![Example Image](deploy.jpg)
 ![Example Image](repos.png)
 ![Example Image](dev1.png)
-![Example Image](preprod.png)
+![Example Image](prepod.png)
 ![Example Image](QA.png)
 ![Example Image](prod.png)
 
